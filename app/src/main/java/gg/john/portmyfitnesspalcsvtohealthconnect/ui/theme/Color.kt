@@ -1,4 +1,4 @@
-package gg.john.portmyfitnesspalcsvtoheatlhconnect.ui.theme
+package gg.john.portmyfitnesspalcsvtohealthconnect.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

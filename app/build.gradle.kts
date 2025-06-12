@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "gg.john.portmyfitnesspalcsvtoheatlhconnect"
+    namespace = "gg.john.portmyfitnesspalcsvtohealthconnect"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "gg.john.portmyfitnesspalcsvtoheatlhconnect"
+        applicationId = "gg.john.portmyfitnesspalcsvtohealthconnect"
         minSdk = 28
         targetSdk = 35
         versionCode = 1

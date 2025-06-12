@@ -1,4 +1,4 @@
-package gg.john.portmyfitnesspalcsvtoheatlhconnect
+package gg.john.portmyfitnesspalcsvtohealthconnect
 
 import org.junit.Test
 

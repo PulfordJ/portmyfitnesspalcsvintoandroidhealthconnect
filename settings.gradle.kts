@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "portmyfitnesspalcsvtoheatlhconnect"
+rootProject.name = "portmyfitnesspalcsvtohealthconnect"
 include(":app")
  

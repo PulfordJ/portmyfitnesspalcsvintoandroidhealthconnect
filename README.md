@@ -2,6 +2,10 @@
 
 An Android app that allows users to import weight data exported from MyFitnessPal (in CSV format) into Google Health Connect.
 
+## Why This App Exists
+
+By default, connecting MyFitnessPal—or most fitness apps—to Health Connect only allows syncing of **future** data. Historical records, such as months or years of past weight tracking, are not imported. This app fills that gap by allowing you to import **historical weight data** directly into Health Connect from a CSV export.
+
 ## Features
 
 * Requests necessary Health Connect permissions.
